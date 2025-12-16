@@ -4,11 +4,15 @@ A curated list of AI tools I personally use to build, automate, and monetize pro
 
 <div align="center">
 
-**If this repo has helped you, consider buying me a coffee! ☕**
+### ☕ Support This Project
 
-This keeps me creating valuable repos and keeps everything up to date! 🚀
+**If this repo has helped you, consider buying me a coffee!**
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/viralwavestudio)
+Your support keeps me creating valuable repos and keeps everything up to date! 🚀
+
+<a href="https://buymeacoffee.com/viralwavestudio" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" />
+</a>
 
 </div>
 
