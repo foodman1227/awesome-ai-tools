@@ -1,6 +1,12 @@
+<div align="center">
+
 # awesome-ai-tools
 
+![Awesome AI Tools](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904550708-Generated%20Image%20December%2016%2C%202025%20-%2010_40AM%20(1).jpeg?alt=media&token=dacc5a23-c841-48a4-92b6-57c293267885)
+
 A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to e-commerce product research, APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐
+
+</div>
 
 <div align="center">
 
@@ -23,6 +29,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 ### ViralWave Studio
 **Website:** [viralwavestudio.com](https://viralwavestudio.com)
 
+[![ViralWave Studio](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904933502-Screenshot%202025-12-16%20120825.png?alt=media&token=6986431e-4bb0-48ba-802d-e282f1896cb2)](https://viralwavestudio.com)
+
 **Description:** ViralWave Studio is an AI-powered social media content generator and scheduler that transforms prompts into engaging reels and automatically posts them to your social media accounts. It streamlines the entire content creation workflow from ideation to publication.
 
 **Why I Use It:** Managing multiple social media platforms can be incredibly time-consuming. ViralWave Studio automates content creation and scheduling, allowing me to maintain a consistent online presence across all platforms without manual effort. It's been a game-changer for maintaining engagement while focusing on other aspects of my business.
@@ -34,6 +42,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 ### Postiz
 **Website:** [postiz.com](https://postiz.com/?ref=chris34)
 
+[![Postiz](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904952187-Screenshot%202025-12-16%20120904.png?alt=media&token=3ea09316-1202-408a-ba3f-ac39dcba5d28)](https://postiz.com/?ref=chris34)
+
 **Description:** Postiz is an agentic AI-powered social media scheduling and management tool that offers everything you need to manage social media posts, build an audience, capture leads, and grow your business. It features an AI Content Assistant that performs tasks for you, a Canva-like design tool with AI image generation, seamless cross-posting across 20+ platforms (Facebook, Instagram, TikTok, YouTube, LinkedIn, Reddit, Threads, Pinterest, Discord, Slack, and more), team collaboration features, auto actions (auto-post, auto-like, auto-comment), comprehensive analytics, and powerful automation via Public API, n8n, Make.com, or Zapier. Postiz is also open-source and can be self-hosted for maximum privacy and control.
 
 **Why I Use It:** Postiz is my go-to all-in-one social media management solution. The AI Content Assistant saves me hours by handling content creation tasks, and the built-in design tool eliminates the need for external graphic design software. Being able to cross-post to multiple platforms from one dashboard is incredibly efficient, and the automation features integrate seamlessly with my existing workflows. The fact that it's open-source and self-hostable gives me peace of mind about data privacy and control.
@@ -44,6 +54,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ### Syllaby
 **Website:** [syllaby.io](https://syllaby.io/?via=chris56)
+
+[![Syllaby](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904932808-Screenshot%202025-12-16%20120841.png?alt=media&token=6f0bcc9b-cbba-41da-ba9c-6c5a24e851e7)](https://syllaby.io/?via=chris56)
 
 **Description:** Syllaby is an AI-driven platform that assists in turning ideas into viral videos. It offers comprehensive tools including AI script generation, AI avatars, voice cloning, and video editing capabilities, making professional video production accessible to everyone.
 
